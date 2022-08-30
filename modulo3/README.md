@@ -12,9 +12,13 @@
 - [x] As funçãoes e varáveis impactadas devem ser declaradas dentro do seu proprio escopo.
 
 #### Exemplo de Funções Puras
-- Neste primeiro exemplo temos
-![](https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-1.png)
-- teste
+- No Exemplo 1, a função retorna um valor de acordo com os seus argumentos de entrada, independente de quando e onde ela é chamada. Sempre que passarmos 2 e 3 sabemos que o resultado será 6. Nada mais afeta o resultado.
+
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-1.png" width="500"  />
+
+- No Exemplo 2,
+
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-2.png" width="500"  />
 -  teste
 
 ### Funções Impuras
