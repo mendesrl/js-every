@@ -13,7 +13,7 @@
 
 #### Exemplo de Funções Puras
 - Neste primeiro exemplo temos
-![](https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/funcao-pura-exemplo-1.png)
+![](https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-1.png)
 - teste
 -  teste
 
