@@ -1,13 +1,21 @@
 # Modulo 3 - Javascript Funcional
 
-## Funções Puras x Funções Impuras
+## Funções Puras
+- Uma função em que seu valor de retorno é determinado por seus valores de entrada.
+- Não Existe dependência externa.
+- Os valores são passados como parâmetros.
+- Não tem efeitos colaterais.
 
-### Funções Puras
+### Checklist para criar uma função pura
+- [x] O nome da função deve ser claro e condizente com seu comportamento.
+- [x] Os tipos de entrada devem ser validados. 
+- [x] As funçãoes e varáveis impactadas devem ser declaradas dentro do seu proprio escopo.
 
 #### Exemplo de Funções Puras
--
--
--
+- Neste primeiro exemplo temos
+![](https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/funcao-pura-exemplo-1.png)
+- teste
+-  teste
 
 ### Funções Impuras
 
