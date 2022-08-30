@@ -16,10 +16,19 @@ No Exemplo 1, a função retorna um valor de acordo com os seus argumentos de en
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-1.png" width="500"  />
 
-- No Exemplo 2,
+Funções puras não devem alterar nenhuma variável fora de seu escopo, o Exemplo 2 mostra que a função não alterou os valores do objeto.
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-2.png" width="500"  />
--  teste
+
+os métodos JS abaixo são normalmente associados a funções puras
+- arr.map()
+- arr.filter()
+- arr.reduce()
+- arr.each()
+- arr.every()
+- arr.concat()
+- arr.slice()
+
 
 ### Funções Impuras
 
