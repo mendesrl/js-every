@@ -1,4 +1,13 @@
-# Event Loop
+# Modulo 2
+Para a conclusão do segundo módulo do curso do curso JS.every(), foram propostos os itens:
+- Consumir o endpoint utilizando fetch() -> [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+- Filtre apenas os usuários que o email termina com o domínio .biz
+
+A resolução pode ser consultada no link : [https://jsfiddle.net/mendesrl/k7g49tn2/84/](https://jsfiddle.net/mendesrl/k7g49tn2/84/)
+
+# Modulo 1
+
+## Event Loop
 
 - Estudando para concluir o primeiro módulo do curso JS.every(), encontrei este video no youtube [Mas que diabos é o loop de eventos? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=31s), onde o palestrante Philip, demostra a partir de uma ferramenta chamada [Loupe](http://latentflip.com/loupe/) como a call stack,event loop e callback queue interagem entre si.
 
