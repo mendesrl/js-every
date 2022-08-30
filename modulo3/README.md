@@ -20,7 +20,7 @@ Funções puras não devem alterar nenhuma variável fora de seu escopo, o Exemp
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-2.png" width="500"  />
 
-os métodos JS abaixo são normalmente associados a funções puras
+os métodos JS abaixo são normalmente associados a funções puras, veja o map no Exemplo-3.
 - arr.map()
 - arr.filter()
 - arr.reduce()
@@ -29,6 +29,7 @@ os métodos JS abaixo são normalmente associados a funções puras
 - arr.concat()
 - arr.slice()
 
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-3.png" width="500"  />
 
 ### Funções Impuras
 
