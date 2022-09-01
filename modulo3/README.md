@@ -32,7 +32,11 @@ Os métodos JS abaixo são normalmente associados a funções puras, veja o map 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-3.png" width="500"  />
 
 ### Funções Impuras
+- Quando uma função ao ser executada causa mudanças no estado da aplicação ela é chamada de função impura.
+- Uma função que altera ou tem seus valores alterados fora do seu **escopo léxico**.
 
+#### O que é escopo léxico?
+- É o escopo no qual as fuções foram definidas fisicamente
 #### Exemplo de Funções Impuras
 -
 -
