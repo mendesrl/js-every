@@ -41,7 +41,7 @@ Os métodos JS abaixo são normalmente associados a funções puras, veja o map 
 #### Destrinchando um exemplo de escopo léxico
 - No código acima, o valor da variável `num1` é acessível por todos os escopos de função (`funcao()` e `funcaoInterna()`), pois está no escopo global. 
 - Enquanto isso, a variável `num2` não é acessível fora da função `funcao()` devido a variável `num2` ser de escopo local. 
-- Outra ponto é: a função `funcaoInterna()` pode acessar as variáveis `num2` e `num3`. Isso ocorre porque as funções internas são lexicalmente vinculadas pelas funções externas(função pai).
+- Outro ponto é: a função `funcaoInterna()` pode acessar as variáveis `num2` e `num3`. Isso ocorre porque as funções internas são lexicalmente vinculadas pelas funções externas(função pai).
 #### Exemplo de Funções Impuras
 -
 -
