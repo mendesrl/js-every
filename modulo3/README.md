@@ -15,24 +15,21 @@
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-1.png" width="500"  />
 
-No Exemplo 1, a função retorna um valor de acordo com os seus argumentos de entrada, independente de quando e onde ela é chamada. Sempre que passarmos 2 e 3 sabemos que o resultado será 6. Nada mais afeta o resultado.
-
+- **Exemplo-1:** A função retorna um valor de acordo com os seus argumentos de entrada, independente de quando e onde ela é chamada. Sempre que passarmos 2 e 3 sabemos que o resultado será 6. Nada mais afeta o resultado.
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-2.png" width="500"  />
 
-Funções puras não devem alterar nenhuma variável fora de seu escopo, o Exemplo 2 mostra que a função não alterou os valores do objeto.
-
+- **Exemplo-2:** Funções puras não devem alterar nenhuma variável fora de seu escopo, nesse exemplo a função não alterou os valores do objeto.
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-3.png" width="500"  />
 
-Os métodos JS abaixo são normalmente associados a funções puras, veja o map no Exemplo 3.
-- arr.map()
-- arr.filter()
-- arr.reduce()
-- arr.each()
-- arr.every()
-- arr.concat()
-- arr.slice()
+- **Exemplo-3:** O map é um método JS associado a função pura, assim como os outros.
+  - arr.filter()
+  - arr.reduce()
+  - arr.each()
+  - arr.every()
+  - arr.concat()
+  - arr.slice()
 
 ### Funções Impuras
 - É quando uma função ao ser executada causa mudanças no estado da aplicação ela é chamada de função impura.
