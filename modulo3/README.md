@@ -51,9 +51,12 @@
 #### Exemplo de Funções Impuras
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-impura-exemplo-1.png" width="500"  />
 
-No Exemplo 1 vemos que
--
--
+- **Exemplo-1:** `num1` dentro da função `soma()` impacta efeitos colaterais, vejamos:
+  - Dependência: `soma()` depender de `num1` pode resultar em erro, caso `num1` por algum motivo ser undefined.
+  - Modifica o código externo: a cada chamada de `soma()` o valor de  `num1` é atualizado, alterando o valor de uma variavel fora do seu escopo.
+
+
+- **Exemplo-2:**
 
 ## Imutabilidade
 #### Exemplo de Imutabilidade
