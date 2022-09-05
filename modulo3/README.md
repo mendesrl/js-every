@@ -12,15 +12,20 @@
 - [x] As funçãoes e varáveis impactadas devem ser declaradas dentro do seu proprio escopo.
 
 #### Exemplo de Funções Puras
-No Exemplo 1, a função retorna um valor de acordo com os seus argumentos de entrada, independente de quando e onde ela é chamada. Sempre que passarmos 2 e 3 sabemos que o resultado será 6. Nada mais afeta o resultado.
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-1.png" width="500"  />
 
-Funções puras não devem alterar nenhuma variável fora de seu escopo, o Exemplo 2 mostra que a função não alterou os valores do objeto.
+No Exemplo 1, a função retorna um valor de acordo com os seus argumentos de entrada, independente de quando e onde ela é chamada. Sempre que passarmos 2 e 3 sabemos que o resultado será 6. Nada mais afeta o resultado.
+
 
 <img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-2.png" width="500"  />
 
-Os métodos JS abaixo são normalmente associados a funções puras, veja o map no Exemplo-3.
+Funções puras não devem alterar nenhuma variável fora de seu escopo, o Exemplo 2 mostra que a função não alterou os valores do objeto.
+
+
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-3.png" width="500"  />
+
+Os métodos JS abaixo são normalmente associados a funções puras, veja o map no Exemplo 3.
 - arr.map()
 - arr.filter()
 - arr.reduce()
@@ -28,8 +33,6 @@ Os métodos JS abaixo são normalmente associados a funções puras, veja o map 
 - arr.every()
 - arr.concat()
 - arr.slice()
-
-<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-pura-exemplo-3.png" width="500"  />
 
 ### Funções Impuras
 - É quando uma função ao ser executada causa mudanças no estado da aplicação ela é chamada de função impura.
@@ -49,7 +52,9 @@ Os métodos JS abaixo são normalmente associados a funções puras, veja o map 
 - Após o entendimento de escopo léxico, voltamos as explicações sobre funções impuras.
 
 #### Exemplo de Funções Impuras
--
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-impura-exemplo-1.png" width="500"  />
+
+No Exemplo 1 vemos que
 -
 -
 
