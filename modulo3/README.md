@@ -59,6 +59,9 @@
 
 - **Exemplo-2:** Aparentemente `modificandoObj` parece ser pura, mas como estamos modificando o objeto no local, a abordagem acima é considerada impura.
 
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-impura-exemplo-3.png" width="500"  />
+
+- **Exemplo-3:** `Math.random()` é uma função impura; ele altera o estado interno do objeto Math para que você obtenha valores diferentes em chamadas sucessivas.
 
 ## Imutabilidade
 #### Exemplo de Imutabilidade
