@@ -55,8 +55,10 @@
   - Dependência: `soma()` depender de `num1` pode resultar em erro, caso `num1` por algum motivo ser undefined.
   - Modifica o código externo: a cada chamada de `soma()` o valor de  `num1` é atualizado, alterando o valor de uma variavel fora do seu escopo.
 
+<img src="https://github.com/mendesrl/js-every/blob/module-3/javascript-funcional/modulo3/funcao-impura-exemplo-2.png" width="500"  />
 
-- **Exemplo-2:**
+- **Exemplo-2:** Aparentemente `modificandoObj` parece ser pura, mas como estamos modificando o objeto no local, a abordagem acima é considerada impura.
+
 
 ## Imutabilidade
 #### Exemplo de Imutabilidade
